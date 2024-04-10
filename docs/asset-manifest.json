@@ -1,16 +1,18 @@
 {
   "files": {
-    "main.css": "/static/css/main.8995ffa1.css",
-    "main.js": "/static/js/main.496a0698.js",
-    "static/js/453.89e0ba26.chunk.js": "/static/js/453.89e0ba26.chunk.js",
-    "static/media/bg.mp4": "/static/media/bg.8a120990213deca1d91b.mp4",
+    "main.css": "/static/css/main.2c4075c0.css",
+    "main.js": "/static/js/main.2739826e.js",
+    "static/js/453.75c78726.chunk.js": "/static/js/453.75c78726.chunk.js",
+    "static/media/bg.jpg": "/static/media/bg.341dfd76674df13f6a4b.jpg",
+    "static/media/logoLG.png": "/static/media/logoLG.644f0492346a5182c16e.png",
+    "static/media/index.cjs": "/static/media/index.671993152dc0f6e0b17a.cjs",
     "index.html": "/index.html",
-    "main.8995ffa1.css.map": "/static/css/main.8995ffa1.css.map",
-    "main.496a0698.js.map": "/static/js/main.496a0698.js.map",
-    "453.89e0ba26.chunk.js.map": "/static/js/453.89e0ba26.chunk.js.map"
+    "main.2c4075c0.css.map": "/static/css/main.2c4075c0.css.map",
+    "main.2739826e.js.map": "/static/js/main.2739826e.js.map",
+    "453.75c78726.chunk.js.map": "/static/js/453.75c78726.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.8995ffa1.css",
-    "static/js/main.496a0698.js"
+    "static/css/main.2c4075c0.css",
+    "static/js/main.2739826e.js"
   ]
 }
