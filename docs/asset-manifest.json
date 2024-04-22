@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/static/css/main.baa181be.css",
-    "main.js": "/static/js/main.c90e884e.js",
+    "main.js": "/static/js/main.0b64119d.js",
     "static/js/453.75c78726.chunk.js": "/static/js/453.75c78726.chunk.js",
     "static/media/logoLG.png": "/static/media/logoLG.644f0492346a5182c16e.png",
     "static/media/bg.jpg": "/static/media/bg.2655bde890b09a9857b6.jpg",
@@ -9,11 +9,11 @@
     "static/media/index.cjs": "/static/media/index.671993152dc0f6e0b17a.cjs",
     "index.html": "/index.html",
     "main.baa181be.css.map": "/static/css/main.baa181be.css.map",
-    "main.c90e884e.js.map": "/static/js/main.c90e884e.js.map",
+    "main.0b64119d.js.map": "/static/js/main.0b64119d.js.map",
     "453.75c78726.chunk.js.map": "/static/js/453.75c78726.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.baa181be.css",
-    "static/js/main.c90e884e.js"
+    "static/js/main.0b64119d.js"
   ]
 }
