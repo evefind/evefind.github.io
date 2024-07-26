@@ -1,23 +1,19 @@
 {
   "files": {
-    "main.css": "/static/css/main.418adc90.css",
-    "main.js": "/static/js/main.f5e9a548.js",
+    "main.css": "/static/css/main.a45b8219.css",
+    "main.js": "/static/js/main.fad96d96.js",
     "static/js/453.1e25629f.chunk.js": "/static/js/453.1e25629f.chunk.js",
-    "static/media/bg.jpg": "/static/media/bg.deff391a6292257ad2c1.jpg",
     "static/media/2.png": "/static/media/2.4618949f2fba0b74192e.png",
     "static/media/1.png": "/static/media/1.c2e2408c27758cb235dd.png",
-    "static/media/mask.png": "/static/media/mask.db18f484ec64b6a6c99e.png",
     "static/media/3.png": "/static/media/3.26b46e665b24339f8997.png",
-    "static/media/mask-md.png": "/static/media/mask-md.488b440c363b43fca861.png",
-    "static/media/mask-sm.png": "/static/media/mask-sm.611f90720711875a67fa.png",
     "static/media/logodiscord.webp": "/static/media/logodiscord.cfa2a9299c83ffa43487.webp",
     "index.html": "/index.html",
-    "main.418adc90.css.map": "/static/css/main.418adc90.css.map",
-    "main.f5e9a548.js.map": "/static/js/main.f5e9a548.js.map",
+    "main.a45b8219.css.map": "/static/css/main.a45b8219.css.map",
+    "main.fad96d96.js.map": "/static/js/main.fad96d96.js.map",
     "453.1e25629f.chunk.js.map": "/static/js/453.1e25629f.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.418adc90.css",
-    "static/js/main.f5e9a548.js"
+    "static/css/main.a45b8219.css",
+    "static/js/main.fad96d96.js"
   ]
 }
